@@ -103,6 +103,8 @@ If a client tries to use an already taken name, they receive a message and are d
 Try-catch blocks ensure that network failures do not crash the application.
 The server cleans up inactive connections to prevent resource leakage.
 
+This Java-based chat application showcases real-time communication using multi-threading and networking. By leveraging Java's built-in libraries, it creates a simple yet effective messaging system. With further enhancements, it can evolve into a full-fledged chat application with added security and usability features.
+
 **OUTPUT OF THE TASK** :
 
 ![Image](https://github.com/user-attachments/assets/a59ef839-d3b1-442f-80e2-9a071a25f938)
