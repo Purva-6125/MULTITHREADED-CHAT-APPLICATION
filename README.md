@@ -104,3 +104,10 @@ Try-catch blocks ensure that network failures do not crash the application.
 The server cleans up inactive connections to prevent resource leakage.
 
 **OUTPUT OF THE TASK** :
+
+![Image](https://github.com/user-attachments/assets/a59ef839-d3b1-442f-80e2-9a071a25f938)
+
+![Image](https://github.com/user-attachments/assets/8a478fbe-5024-4471-bb03-a562a59e6a8b)
+
+![Image](https://github.com/user-attachments/assets/97f578fd-11a7-4b92-942d-a521f9d49714)
+
